@@ -75,7 +75,7 @@ p{
   font-size: 20px;
 }
 .banner {
-  background-image: url(./img/person-traveling-enjoying-their-vacation.jpg);
+  background-image: url(./img/person-traveling-enjoying-their-vacation_11zon.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -688,4 +688,8 @@ h1{
 .book-btn:hover {
   transform: scale(1.1);
   background-color: #ff4c4c;
+}
+.photo img{
+    width: 100%;
+    height: 80%;
 }
